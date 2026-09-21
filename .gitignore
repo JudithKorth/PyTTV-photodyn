@@ -1,0 +1,7 @@
+/PyTTV.egg-info/
+.idea
+build
+scratch
+pyttv_photodyn.egg-info
+/sync_to_palma.sh
+__pycache__
